@@ -2,6 +2,12 @@
 
 A polyfill for the [canvas.toBlob](https://developer.mozilla.org/en/docs/Web/API/HTMLCanvasElement) method, for the browser.
 
+### Installation
+
+```
+npm install canvas-to-blob
+```
+
 ### Methods
 
 ```js
